@@ -49,8 +49,8 @@ No Python environment is required for this repository.
    in a group.
 2. Clone the repository and open it locally.
 3. Read the lesson files in numerical order.
-4. Start Claude Code from the repository root with `claude` when the handout
-   introduces the working process.
+4. Use Claude Code through any available interface and make the project files
+   available to it when the handout introduces the working process.
 5. Use the handout and templates to create the project artifacts.
 
 ## AI Collaboration Guidelines

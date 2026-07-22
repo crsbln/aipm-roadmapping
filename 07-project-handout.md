@@ -52,11 +52,8 @@ initiative belongs, what is uncertain, and what could change the direction.
 
 ## Phase 1: Establish the Context
 
-Start Claude Code from the repository root:
-
-```bash
-claude
-```
+Open the project with Claude Code using any available interface, such as the VS
+Code extension, CLI, desktop application, or another graphical interface.
 
 Ask Claude to read the lessons and templates, then interview the group. Provide
 the context needed to understand:
