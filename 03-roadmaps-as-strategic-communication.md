@@ -86,6 +86,13 @@ Different audiences need different views of the same underlying decisions:
 Create views from one source of truth. Do not create separate roadmaps with
 contradictory commitments.
 
+![A Now-Next-Later roadmap with objective tags and priority scores](assets/atlassian-now-next-later.png)
+
+*This Jira Product Discovery example combines horizon placement, objectives,
+owners, and scoring in one view. The visual tool can support communication, but
+it cannot supply the strategy or evidence behind the cards. Source:
+[Atlassian, Agile Roadmaps](https://www.atlassian.com/agile/product-management/roadmaps).*
+
 ## Check Your Understanding
 
 1. Why is a roadmap not a delivery plan?

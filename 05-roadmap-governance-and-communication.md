@@ -15,6 +15,14 @@ For each change, record:
 - any commitment that must be renegotiated; and
 - the next review trigger.
 
+![A GOV.UK team building a roadmap collaboratively with sticky notes](assets/govuk-roadmap-workshop.jpg)
+
+*A Government Digital Service roadmapping workshop. Building and revising the
+roadmap collaboratively makes assumptions, groupings, and disagreements easier
+to examine before they become commitments. Source: [Government Digital Service,
+How we are using roadmaps in government](https://gds.blog.gov.uk/2017/03/27/how-we-are-using-roadmaps-in-government/),
+licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).*
+
 ```mermaid
 flowchart LR
     R[Review outcomes and evidence] --> C{Material change?}

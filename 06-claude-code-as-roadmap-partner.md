@@ -17,6 +17,13 @@ Use Claude for:
    constraints.
 5. **Maintenance:** apply approved changes consistently across artifacts.
 
+![Claude Code reviewing files and proposed changes in the VS Code extension](assets/claude-code-vscode.jpg)
+
+*Claude Code can work through the VS Code extension, CLI, desktop application,
+or another supported interface. The important requirement for this project is
+access to the relevant files and a visible review step, not a particular
+interface. Source: [Anthropic, Use Claude Code in VS Code](https://code.claude.com/docs/en/ide-integrations).*
+
 ## Establish the Evidence Boundary
 
 Require Claude to label material inputs as:
