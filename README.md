@@ -5,6 +5,60 @@ prioritization, and roadmap communication. Participants build an outcome-based
 roadmap that communicates direction and uncertainty without turning early ideas
 into feature promises or invented delivery dates.
 
+## Project at a Glance
+
+The project connects vision and evidence to an outcome-based roadmap that
+communicates direction, confidence, and change without inventing commitments.
+
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"fontFamily":"Arial","primaryTextColor":"#172033","lineColor":"#64748B"},"flowchart":{"curve":"basis","nodeSpacing":36,"rankSpacing":52}}}%%
+flowchart LR
+    Goal[Create an evidence-backed<br/>product roadmap]
+    subgraph Direction["<b>1. Establish Direction and Opportunities</b>"]
+        direction TB
+        Vision[Vision and strategy]
+        Evidence[User and business evidence]
+        Opportunities[Prioritized opportunity areas]
+        Vision --> Opportunities
+        Evidence --> Opportunities
+    end
+    subgraph Roadmap["<b>2. Build the Roadmap</b>"]
+        direction TB
+        Initiatives[Outcome-based initiatives]
+        Now[Now<br/>Committed learning]
+        Next[Next<br/>Likely direction]
+        Later[Later<br/>Open options]
+        Traceability[Objectives, evidence,<br/>dependencies and risks]
+        Initiatives --> Now
+        Initiatives --> Next
+        Initiatives --> Later
+        Now --> Traceability
+        Next --> Traceability
+        Later --> Traceability
+    end
+    subgraph Govern["<b>3. Communicate and Govern Change</b>"]
+        direction TB
+        Audiences[Audience-specific<br/>roadmap views]
+        Triggers[Review triggers<br/>and decision records]
+        Output[Defensible roadmap<br/>and presentation]
+        Audiences --> Output
+        Triggers --> Output
+        Output -. New evidence .-> Triggers
+    end
+    Goal --> Direction --> Roadmap --> Govern
+    classDef goal fill:#172033,color:#FFFFFF,stroke:#172033,stroke-width:2px;
+    classDef input fill:#FFFFFF,color:#172033,stroke:#4677A8,stroke-width:1.5px;
+    classDef work fill:#FFFFFF,color:#172033,stroke:#3B8A5A,stroke-width:1.5px;
+    classDef output fill:#FFFFFF,color:#172033,stroke:#B77A1F,stroke-width:1.5px;
+    class Goal goal;
+    class Vision,Evidence,Opportunities input;
+    class Initiatives,Now,Next,Later,Traceability work;
+    class Audiences,Triggers,Output output;
+    style Direction fill:#F5F9FD,stroke:#9BB8D2,stroke-width:1.5px;
+    style Roadmap fill:#F4FAF6,stroke:#9DC8AD,stroke-width:1.5px;
+    style Govern fill:#FFFAEF,stroke:#D7B66B,stroke-width:1.5px;
+```
+
 ## Learning Objectives
 
 By the end of this repository, you should be able to:
