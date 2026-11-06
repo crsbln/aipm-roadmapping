@@ -1,5 +1,21 @@
 # Product Roadmapping
 
+## Project Artifacts: Kickstarter Launch Check (completed 2026-11-06)
+
+The seven required artifacts of the [project handout](07-project-handout.md), built for the Week 9
+Kickstarter Launch Check project, plus the Phase 7 walkthrough:
+
+| File | Purpose |
+|---|---|
+| [strategy-brief.md](strategy-brief.md) | Direction, choices, exclusions, objectives, constraints; defines the evidence labels used everywhere |
+| [evidence-map.md](evidence-map.md) | Sources S01 to S07, findings F01 to F12, opportunities O01 to O06 |
+| [initiative-register.md](initiative-register.md) | Initiatives I01 to I06 with objective, evidence, gates, stop signals; candidate approaches kept separate |
+| [roadmap.md](roadmap.md) | Now-Next-Later as confidence horizons, exclusions, commitment language, change log |
+| [roadmap-decision-log.md](roadmap-decision-log.md) | Decisions D-01 to D-12 with options considered |
+| [roadmap-review.md](roadmap-review.md) | Review R1: the data licence (observed) and a sponsor request (scenario) |
+| [ai-collaboration-log.md](ai-collaboration-log.md) | What Claude proposed, corrected and rejected, and what still awaits owner review |
+| [walkthrough.md](walkthrough.md) | The ten-minute sponsor walkthrough (Phase 7) |
+
 This Markdown learning path connects product vision, user evidence, strategy,
 prioritization, and roadmap communication. Participants build an outcome-based
 roadmap that communicates direction and uncertainty without turning early ideas
