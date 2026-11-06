@@ -8,7 +8,7 @@
   prototype). In the course setting this is the instructors and the team; in the scenario of `roadmap-review.md` it
   is the agency leadership that saw the client deck `[scenario]`.
 - **Decision owner:** Christian Balan. **Reference date:** 2026-11-06. **Status:** proposed by Claude in a delegated
-  pass on 2026-11-06; owner review pending (see `ai-collaboration-log.md`).
+  pass on 2026-11-06 and accepted by the owner the same day (see `roadmap-decision-log.md`, `ai-collaboration-log.md`).
 - **Format and why:** Now-Next-Later as **confidence horizons**. Compared in `roadmap-decision-log.md` (D-04)
   against an outcome-based roadmap, a theme roadmap and a timeline: nothing here has a genuine date, two of six
   initiatives rest on unknowns, and the audience needs to see confidence, not sequence.

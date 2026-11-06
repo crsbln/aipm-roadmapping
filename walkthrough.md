@@ -2,7 +2,7 @@
 
 A spoken walkthrough of about ten minutes, presented directly from the artifacts. No slide deck. The visual anchor
 is the roadmap table in `roadmap.md`. Commitment words are chosen on purpose and must not be strengthened when this
-is retold. Status: drafted by Claude, owner review pending (A13 records one correction already made).
+is retold. Status: drafted by Claude, reviewed and accepted by the owner on 2026-11-06 (A13 records one correction).
 
 ## 1. Vision, strategy, objectives
 

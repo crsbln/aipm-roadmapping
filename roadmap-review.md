@@ -1,7 +1,7 @@
 # Roadmap Review R1
 
-**Date:** 2026-11-06 · **Reviewer / decision owner:** Christian Balan (analysis prepared by Claude; decisions
-proposed, owner review pending) · **Roadmap version reviewed:** the first version of `roadmap.md` of the same day.
+**Date:** 2026-11-06 · **Reviewer / decision owner:** Christian Balan (analysis prepared by Claude; decisions D-08 to
+D-12 accepted by the owner on 2026-11-06) · **Roadmap version reviewed:** the first version of `roadmap.md` of the same day.
 
 ## Review Context
 
